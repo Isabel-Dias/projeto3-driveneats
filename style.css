@@ -1,0 +1,43 @@
+.whole-body {
+    background-color:blue;
+    height: 1026px;
+    width: 414px;
+
+    margin: 92px 0;
+}
+.top-bar {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    
+    width: 414px;
+    height: 92px;
+
+    background-color: aqua;
+}
+.container-food {
+    display: flex;
+}
+.container-drink {
+    display: flex;
+}
+.container-dessert {
+    display: flex;
+}
+.option {
+    width: 172px;
+    height: 216px;
+    margin-left: 19px;
+
+    background-color: beige;
+}
+.checkout-bar {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+
+    width: 414px;
+    height: 92px;
+
+    background-color: brown;
+}
