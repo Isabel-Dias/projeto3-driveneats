@@ -1,8 +1,10 @@
 .whole-body {
-    height: 1026px;
     width: 414px;
 
-    margin: 92px 0;
+    margin-top: 92px;
+    margin-bottom: 108px;
+    background-color: aqua;
+    padding-top: 31px;
 }
 .top-bar {
     position: fixed;
@@ -39,12 +41,18 @@ h2 {
 }
 .category-title {
     line-height: 32px;
+    font-family: 'Righteous';
+    font-weight: 400;
+    font-size: 26px;
+    margin-bottom: 17px; 
 }
 .container-food {
     display: flex;
+    margin-bottom: 27px;
 }
 .container-drink {
     display: flex;
+    margin-bottom: 27px;
 }
 .container-dessert {
     display: flex;
