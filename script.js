@@ -63,6 +63,7 @@ function CheckoutPrice(priceSelectFood, priceSelectDrink,priceSelectDessert) {
         
         const check = document.querySelector(".checkout");
         check.innerHTML = "Fechar pedido";
+        
     }
     
 
